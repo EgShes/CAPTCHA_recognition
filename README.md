@@ -5,3 +5,5 @@ Small CV project on detection and classification of letters on text CAPTCHA imag
 
 What was tested:
 - pytorch fasterrcnn from torchvision
+- SDD (implementation got from [here](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection))
+
